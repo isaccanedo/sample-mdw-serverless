@@ -11,7 +11,7 @@ products:
 
 # sample-mdw-serverless
 
-End to end sample of data processing to be viewed in pbi.
+Amostra de ponta a ponta de processamento de dados a ser visualizada em pbi.
 
 ## Use Case
 
